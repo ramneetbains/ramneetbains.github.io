@@ -1,3 +1,2 @@
 # ramneetbains.github.io
-# a civil engineer providing home to homeless.
-
+## A civil engineer providing home to homeless.
